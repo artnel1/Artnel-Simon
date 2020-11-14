@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Artnel's Designz
 
 You can use the [editor on GitHub](https://github.com/artnel1/Artnel-Simon/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Graphic Design
+## Web Development 
+### Marketing
 
 - Bulleted
 - List
@@ -23,15 +23,15 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[https://www.pngegg.com/en/png-zrnjz](url) and ![image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [Artnel's Designz](https://artnelsdesignz.com).
 
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/artnel1/Artnel-Simon/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? [contact support](https://artnelsdesignz.com/contact) and we’ll help you sort it out.
